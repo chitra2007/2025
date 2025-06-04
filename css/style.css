@@ -1,0 +1,50 @@
+.header {
+    background-color: black;
+    color: whitesmoke;
+}
+
+.header:hover {
+    background-color: green;
+    color: white;
+}
+
+#one {
+
+    color: violet;
+}
+
+#two {
+
+    color: pink;
+}
+
+#three {
+
+    color: aqua;
+}
+
+#four,
+#five,
+#six {
+
+    color: greenyellow;
+}
+
+* {
+    color: chocolate;
+}
+
+.link {
+    text-decoration: none;
+    color: brown;
+    background-color: red;
+    padding:10px;
+    border-radius: 100px;
+
+}
+.link:hover{
+    color:aqua;
+    background-color: blue;
+
+}
+
